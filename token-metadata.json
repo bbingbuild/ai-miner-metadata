@@ -1,7 +1,7 @@
 {
   "name": "TEST",
   "symbol": "TEST",
-  "image": "https://www.svgrepo.com/download/483336/coin-vector.svg",
+  "image_data": "https://www.svgrepo.com/download/483336/coin-vector.svg",
   "description": "TEST",
   "decimals": 9
 }
